@@ -36,7 +36,7 @@ Response: You can install Ollama by downloading it from their official website.
 
 ## TODO:
 - Seperate out the concerns of removing the thoughts, from the concern of a UI frontend for this data. This repo should primarily be focused on being a lean mean thought-cutting machine. A default gui may be provided, but it will use the same general backend API for a daemon.
-- Fix lack of topic change ability. Possibly summarize the entire past of the conversation using AI then feed THAT into the model so it doesn't over index on past data.
+- Fix lack of topic change ability. Possibly summarize the entire past of the conversation using AI then feed THAT into the model so it doesn't over index on past questions/responses.
 
 ## License
 This project is licensed under the MIT License. You are free to use, modify, distribute, and even use it commercially. 
