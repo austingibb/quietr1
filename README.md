@@ -1,3 +1,6 @@
+# THIS REPO IS OBSOLETE
+See here for a better project: https://github.com/open-webui/open-webui
+
 # Thought Tag Remover
 
 ## Overview
